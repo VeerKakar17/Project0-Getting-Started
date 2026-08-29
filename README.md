@@ -9,5 +9,6 @@ Project 0 Getting Started
 
 ### Readme
 
-2.1.2:
 ![2.1.2](2.1.2.png)
+![2.1.4 analysis view](2.1.4_1.png)
+![2.1.4 timeline view](2.1.4_2.png)
